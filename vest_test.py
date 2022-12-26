@@ -1,2 +1,1 @@
-import sys
-print('version is', sys.version)
+$ python sys_version.py
